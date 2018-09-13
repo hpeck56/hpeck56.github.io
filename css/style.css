@@ -503,6 +503,10 @@ h4 {
     text-align: left;
     padding: 50px 50px 0px 50px;
 }
+.box-inf {
+    text-align: left;
+    padding: 60px 50px 0px 50px;
+}
 
 .box-intro .table-cell {
     display: table-cell;
