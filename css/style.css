@@ -501,7 +501,7 @@ h4 {
 }
 .box-ini {
     text-align: left;
-    padding: 60px 50px 0px 50px;
+    padding: 50px 50px 0px 50px;
 }
 
 .box-intro .table-cell {
@@ -907,11 +907,11 @@ b i:last-child {
 footer {
     padding: 30px 0;
     text-align: center;
-    background: #000
+    background: #fff
 }
 
 .copyright {
-    color: #ccc;
+    color: #000;
     margin-bottom: 0;
 }
 
